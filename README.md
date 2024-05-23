@@ -55,7 +55,7 @@ Fast JSON API serialized 250 records in 3.01 ms
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'fast_jsonapi', '~> 1.6.0', git: 'https://github.com/fast-jsonapi/fast_jsonapi'
+gem 'fast_jsonapi', '~> 1.7.0', git: 'https://github.com/fast-jsonapi/fast_jsonapi'
 ```
 
 Execute:

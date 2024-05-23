@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.7.0] - 2024-05-23
+- christophersansone's long-used changes
+
 ## [1.6.0] - 2019-11-04
 ### Added
 - Allow relationship links to be delcared as a method ([#2](https://github.com/fast-jsonapi/fast_jsonapi/pull/2))
@@ -19,4 +22,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Optimize ObjectSerializer.deep_symbolize by using each_with_object instead of Hash[map] ([#6](https://github.com/fast-jsonapi/fast_jsonapi/pull/6))
 
 [Unreleased]: https://github.com/fast-jsonapi/fast_jsonapi/compare/dev...HEAD
+[1.7.0]: https://github.com/fast-jsonapi/fast_jsonapi/compare/1.6.0...1.7.0
 [1.6.0]: https://github.com/fast-jsonapi/fast_jsonapi/compare/1.5...1.6.0
